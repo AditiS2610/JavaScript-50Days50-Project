@@ -1,4 +1,7 @@
 # JavaScript 50Days 50Project
+### Tech Stack
+- html 
+
 
 ## Day 1
 ### Guess My Number Game:  https://aditis2610.github.io/GuessMyNumber/
