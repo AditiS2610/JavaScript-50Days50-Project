@@ -1,6 +1,7 @@
 # JavaScript 50Days 50Project
 ### Tech Stack
 - html 
+- css 
 
 
 ## Day 1
