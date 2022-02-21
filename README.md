@@ -2,6 +2,7 @@
 ### Tech Stack
 - html 
 - css 
+- js 
 
 
 ## Day 1
